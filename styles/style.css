@@ -219,7 +219,7 @@
 }
 
 .button:hover::before {
-  transform: scaleX(1); 
+  transform: scaleX(1);
 }
 
 .button::before {
